@@ -14,7 +14,7 @@
 
 您可以到下列網址使用 Bing Image Creator
 
-* https://www.bing.com/images/create
+* https://www.bing.com/images/create 
 
 
 擴散模型也是一種神經網路，用機器學習技術，對現成的影像資料庫進行訓練學習。
@@ -25,7 +25,7 @@
 
 說了這麼多，對於不是學 AI 而且要寫程式的人來說，百聞不如一見，您還是親自試試 Bing Image Creator 來體驗擴散模型的威力吧！
 
-* https://www.bing.com/images/create
+* https://www.bing.com/images/create 
 
 如果您想進一步理解擴散模型，可以參考下文
 
