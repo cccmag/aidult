@@ -1,6 +1,9 @@
-# 程式人雜誌 -- 2024 年 ? 月號
+# AI 成人雜誌 -- 2024 年 1 月號
 
-* [程式新聞](_editor/news.md)
-* [C語言：C4 編譯器 (?)](c/README.md)
-* [Python：程式與歷史 (?) -- ](python/README.md)
-* [JavaScript：Deno (?)](javascript/README.md)
+1. [AI 繪圖工具](app/README.md)
+    * 基於擴散模型的 Bing Image Creator
+2. [AV 的世界](sex/README.md)
+    * 網路上的 AV 影片
+3. [Python 程式語言](ai/README.md)
+    * 簡介、安裝與 Hello 程式
+
