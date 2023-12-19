@@ -1,5 +1,11 @@
 # AI 成人雜誌
 
+[程式人雜誌]:https://github.com/cccmag/programmer
+
+[AI成人雜誌]:https://github.com/cccmag/aidult
+
+> -- 關於 [程式人雜誌](_editor/AboutUs.md) 與 [AI成人雜誌]
+
 2024 年 | AI 科普 | 成人世界 | AI 程式
 -------------------|---------|----------|--------
 [1 月](2024/01/README.md)   | [AI 繪圖工具](2024/01/app/README.md) | [AV 的世界](2024/01/sex/README.md) | [Python 程式語言](2024/01/ai/README.md)
