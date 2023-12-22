@@ -54,7 +54,7 @@
 
 * [Xvideos: Extreme close up Big clit pussy squirting orgasm clitoris t. masturbation](https://www.xvideos.com/video51786001/extreme_close_up_big_clit_pussy_squirting_orgasm_clitoris_t._masturbation)
 
-以下的影片中，陰蒂在女生自己的按摩下露出，享受舒服的感覺
+以下的影片中，陰蒂在女生自己的按摩 (masturbate) 後露出，享受舒服的感覺
 
 * https://www.xvideos.com/video58813457/japanese_girl_rubbing_her_big_clit_to_orgasm
 
