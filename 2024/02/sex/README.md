@@ -117,6 +117,10 @@
 
 而且、適當的使用潤滑液，也能讓撫摸和插入更舒服，也比較不會讓女生感到疼痛。
 
+如果男女雙方都可以接受口交的話，那麼交互使用手和舌頭，可能會有更好的感受
+
+* https://www.xvideos.com/video75460513/close_up_clit_licking._loud_moaning_female_orgasm_from_long_pussy_eating
+
 當然、相較於女同性戀者而言，異性戀的男生還是有些優勢的，最明顯的當然是陰莖的插入。
 
 ![](../_img/female2.jpg)
