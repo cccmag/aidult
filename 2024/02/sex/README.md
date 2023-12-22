@@ -114,6 +114,7 @@
 例如下列影片中，你可以看到男主角的撫摸讓女主角非常的興奮
 
 * https://www.xvideos.com/video60881347/babe_cums_hard_from_edging_clit_rubbing
+* https://www.xvideos.com/video74896708/pussy_fingering._real_female_orgasm_from_pussy_fingering_and_pussy_licking._how_to_finger_a_girl
 
 而且、適當的使用潤滑液，也能讓撫摸和插入更舒服，也比較不會讓女生感到疼痛。
 
