@@ -42,58 +42,60 @@ print(chat(sys.argv[1]))
 
 ```
 $ python chatgpt1.py "請問如何用 python 做符號微分與積分?"
+
 問題: 請問如何用 python 做符號微分與積分?
-在Python中，您可以使用不同的函式庫來執行符號微分和積分的計算。以下是使用SymPy函式庫來進行符號微分和積分的示例：
 
-1. 符號微分：
+    在Python中，您可以使用不同的函式庫來執行符號微分和積分的計算。以下是使用SymPy函式庫來進行符號微分和積分的示例：
 
-首先，您需要安裝SymPy函式庫。您可以使用以下程式碼安裝它：
+    1. 符號微分：
 
-```
-pip install sympy
-```
+    首先，您需要安裝SymPy函式庫。您可以使用以下程式碼安裝它：
 
-接著，下面的程式碼示範了如何使用SymPy來進行符號微分：
+    ```
+    pip install sympy
+    ```
 
-```python
-import sympy as sp
+    接著，下面的程式碼示範了如何使用SymPy來進行符號微分：
 
-# 定義符號變數
-x = sp.symbols('x')
+    ```python
+    import sympy as sp
 
-# 定義函數
-f = x**2 + 2*x + 1
+    # 定義符號變數
+    x = sp.symbols('x')
 
-# 進行微分
-df = sp.diff(f, x)
+    # 定義函數
+    f = x**2 + 2*x + 1
 
-print(df)
-```
+    # 進行微分
+    df = sp.diff(f, x)
 
-輸出結果會是：`2*x + 2`
+    print(df)
+    ```
 
-2. 符號積分：
+    輸出結果會是：`2*x + 2`
 
-與符號微分類似，您可以使用SymPy來進行符號積分。以下是示例程式碼：
+    2. 符號積分：
 
-```python
-import sympy as sp
+    與符號微分類似，您可以使用SymPy來進行符號積分。以下是示例程式碼：
 
-# 定義符號變數
-x = sp.symbols('x')
+    ```python
+    import sympy as sp
 
-# 定義函數
-f = x**2 + 2*x + 1
+    # 定義符號變數
+    x = sp.symbols('x')
 
-# 進行積分
-integral = sp.integrate(f, x)
+    # 定義函數
+    f = x**2 + 2*x + 1
 
-print(integral)
-```
+    # 進行積分
+    integral = sp.integrate(f, x)
 
-輸出結果會是：`x**3/3 + x**2 + x`
+    print(integral)
+    ```
 
-這些是使用SymPy函式庫在Python中執行符號微分和積分的基本示例。您可以根據您的需求進一步探索SymPy的功能和選項。
+    輸出結果會是：`x**3/3 + x**2 + x`
+
+    這些是使用SymPy函式庫在Python中執行符號微分和積分的基本示例。您可以根據您的需求進一步探索SymPy的功能和選項。
 ```
 
 很厲害吧！
