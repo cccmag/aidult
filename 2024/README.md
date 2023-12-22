@@ -1,9 +1,17 @@
 # AI 成人雜誌
 
-2024 年 | AI 科普 | 成人世界 | AI 程式
--------------------|---------|----------|--------
-[1 月](01/README.md)   | [AI 繪圖工具](01/app/README.md) | [AV 的世界](01/sex/README.md) | [Python 程式語言](01/ai/README.md)
-[2 月](02/README.md)   | [ChatGPT 語言模型](02/app/README.md) | [女人的身體、敏感帶與高潮](02/sex/README.md) | [呼叫 ChatGPT API](02/ai/README.md)
+[程式人雜誌]:https://github.com/cccmag/programmer
+
+[AI成人雜誌]:https://github.com/cccmag/aidult
+
+> -- 關於 [程式人雜誌](_editor/AboutUs.md) 與 [AI成人雜誌]
+
+
+年分 | 內容
+-----|---------------------------
+2024 年 | [AI 成人雜誌 -- 2024 年 (1-2月)](2024/README.md)
+
+
 
 <!--
 
