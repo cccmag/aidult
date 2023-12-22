@@ -3,11 +3,11 @@
 2024 年 | AI 科普 | 成人世界 | AI 程式
 -------------------|---------|----------|--------
 [1 月](01/README.md)   | [AI 繪圖工具](01/app/README.md) | [AV 的世界](01/sex/README.md) | [Python 程式語言](01/ai/README.md)
-[2 月](02/README.md)   | [ChatGPT 語言模型](02/app/README.md) | [女人的身體、敏感帶與高潮](02/sex/README.md) | [Python 與 AI](02/ai/README.md)
-[3 月](03/README.md)   | [大語言模型](03/app/README.md) | [AI 人體藝術](03/sex/README.md) | [爬山演算法](03/ai/README.md)
-
+[2 月](02/README.md)   | [ChatGPT 語言模型](02/app/README.md) | [女人的身體、敏感帶與高潮](02/sex/README.md) | [呼叫 ChatGPT API](02/ai/README.md)
 
 <!--
+
+[3 月](03/README.md)   | [大語言模型](03/app/README.md) | [AI 人體藝術](03/sex/README.md) | [爬山演算法](03/ai/README.md)
 
 
 性玩具巡禮

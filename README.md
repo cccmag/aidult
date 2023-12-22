@@ -6,6 +6,13 @@
 
 > -- 關於 [程式人雜誌](_editor/AboutUs.md) 與 [AI成人雜誌]
 
+
+2024 年 | AI 科普 | 成人世界 | AI 程式
+-------------------|---------|----------|--------
+[1 月](01/README.md)   | [AI 繪圖工具](01/app/README.md) | [AV 的世界](01/sex/README.md) | [Python 程式語言](01/ai/README.md)
+[2 月](02/README.md)   | [ChatGPT 語言模型](02/app/README.md) | [女人的身體、敏感帶與高潮](02/sex/README.md) | [呼叫 ChatGPT API](02/ai/README.md)
+
+<!--
 2024 年 | AI 科普 | 成人世界 | AI 程式
 -------------------|---------|----------|--------
 [1 月](2024/01/README.md)   | [AI 繪圖工具](2024/01/app/README.md) | [AV 的世界](2024/01/sex/README.md) | [Python 程式語言](2024/01/ai/README.md)
@@ -55,3 +62,4 @@
 [11月](2024/11/README.md)   | [...](2024/11/app/README.md) | [多巴胺與色情衝動](2024/11/sex/README.md) | [...](2024/11/ai/README.md)
 [12月](2024/12/README.md)   | [...](2024/12/app/README.md) | [](2024/12/sex/README.md) | [...](2024/12/ai/README.md)
 
+-->
