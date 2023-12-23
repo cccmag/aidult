@@ -1,6 +1,9 @@
-# 程式人雜誌 -- 2024 年 ? 月號
+# AI 成人雜誌 -- 2024 年 3 月號
 
-* [程式新聞](_editor/news.md)
-* [C語言：C4 編譯器 (?)](c/README.md)
-* [Python：程式與歷史 (?) -- ](python/README.md)
-* [JavaScript：Deno (?)](javascript/README.md)
+1. [用 suno 自動作曲作詞](app/README.md)
+    * 只要告訴 suno 想要甚麼歌，它就幫你做出來了
+2. [女生用的性愛玩具巡禮](sex/README.md)
+    * 震動和吸允的藝術
+3. [用 Python 學習爬山演算法](ai/README.md)
+    * 最簡單的 AI 方法
+
