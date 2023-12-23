@@ -19,7 +19,12 @@
 
 * https://app.suno.ai/create/
 
+
+![](../_img/suno1.png)
+
+
 你可以聽聽我剛剛花了十秒鐘做的六首歌
+
 
 1. [Two Hearts Intertwined.mp3](song/Two%20Hearts%20Intertwined.mp3)
 2. [Unbreakable Love.mp3](song/Unbreakable%20Love.mp3)
